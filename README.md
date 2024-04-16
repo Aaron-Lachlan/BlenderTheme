@@ -13,3 +13,5 @@ how to install
 >in 'themes' on discord settings, turn it on
 
 enjoy
+
+![alt text](https://github.com/Aaron-cameron/BlenderTheme/blob/main/Preview.png)
