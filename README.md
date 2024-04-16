@@ -6,7 +6,7 @@ how to install
 
 >go to release on right of page
 
->download newest version
+>download BlenderTheme.css
 
 >drop into C:\Users\YOU\AppData\Roaming\Vencord\themes
 
