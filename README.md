@@ -10,6 +10,6 @@ how to install
 
 >drop into C:\Users\YOU\AppData\Roaming\Vencord\themes
 
->in themes on didscord settings, turn it on
+>in 'themes' on discord settings, turn it on
 
 enjoy
